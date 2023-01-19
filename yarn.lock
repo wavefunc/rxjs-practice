@@ -5246,6 +5246,13 @@ pretty-bytes@^5.3.0:
   resolved "https://registry.yarnpkg.com/pretty-bytes/-/pretty-bytes-5.6.0.tgz#356256f643804773c82f64723fe78c92c62beaeb"
   integrity sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg==
 
+primeng@13.0.4:
+  version "13.0.4"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-13.0.4.tgz#8ffb5195406c0359d62594c6aaad620f1b7011a2"
+  integrity sha512-hX6TcZ5UwCzA3cfl9csk/N9l0R9mek/QR/BWDQI2zH9Jtc5W1x9FUXnZPj4pUlCDvYL5NW21Yu7d9fDhIe20qQ==
+  dependencies:
+    tslib "^2.3.0"
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
