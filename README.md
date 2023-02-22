@@ -1,3 +1,7 @@
+# 練習網站來源
+
+打通 RxJS 任督二脈(https://ithelp.ithome.com.tw/users/20020617/ironman/2959)
+
 # RxjsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
