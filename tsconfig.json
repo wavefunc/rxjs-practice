@@ -28,5 +28,22 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true
+  },
+  "paths": {
+    "@app/*": [
+      "app/*"
+    ],
+    "@env/*": [
+      "environments/*"
+    ],
+    "@angular/*": [
+      "../node_modules/@angular/*"
+    ],
+    "rxjs/*": [
+      "../node_modules/rxjs/*"
+    ], // => Commenting this makes the imports work
+    "@custom/library": [
+      "../../../path/to/custom/library/src"
+    ]
   }
 }

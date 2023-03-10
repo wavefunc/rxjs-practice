@@ -19,6 +19,17 @@ import { Chapter14CComponent } from './chapter14-c/chapter14-c.component';
 import { Chapter14DComponent } from './chapter14-d/chapter14-d.component';
 import { Chapter14EComponent } from './chapter14-e/chapter14-e.component';
 import { Chapter14FComponent } from './chapter14-f/chapter14-f.component';
+import { Chapter15AComponent } from './chapter15-a/chapter15-a.component';
+import { Chapter15BComponent } from './chapter15-b/chapter15-b.component';
+import { Chapter15CComponent } from './chapter15-c/chapter15-c.component';
+import { Chapter15DComponent } from './chapter15-d/chapter15-d.component';
+import { Chapter15EComponent } from './chapter15-e/chapter15-e.component';
+import { Chapter15FComponent } from './chapter15-f/chapter15-f.component';
+import { Chapter16AComponent } from './chapter16-a/chapter16-a.component';
+import { Chapter16BComponent } from './chapter16-b/chapter16-b.component';
+import { Chapter16CComponent } from './chapter16-c/chapter16-c.component';
+import { Chapter16DComponent } from './chapter16-d/chapter16-d.component';
+import { Chapter17AComponent } from './chapter17-a/chapter17-a.component';
 
 
 @NgModule({
@@ -40,6 +51,17 @@ import { Chapter14FComponent } from './chapter14-f/chapter14-f.component';
     Chapter14DComponent,
     Chapter14EComponent,
     Chapter14FComponent,
+    Chapter15AComponent,
+    Chapter15BComponent,
+    Chapter15CComponent,
+    Chapter15DComponent,
+    Chapter15EComponent,
+    Chapter15FComponent,
+    Chapter16AComponent,
+    Chapter16BComponent,
+    Chapter16CComponent,
+    Chapter16DComponent,
+    Chapter17AComponent,
   ],
   imports: [
     BrowserModule,
