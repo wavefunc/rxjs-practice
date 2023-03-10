@@ -30,6 +30,8 @@ import { Chapter16BComponent } from './chapter16-b/chapter16-b.component';
 import { Chapter16CComponent } from './chapter16-c/chapter16-c.component';
 import { Chapter16DComponent } from './chapter16-d/chapter16-d.component';
 import { Chapter17AComponent } from './chapter17-a/chapter17-a.component';
+import { Chapter17BComponent } from './chapter17-b/chapter17-b.component';
+import { Chapter17CComponent } from './chapter17-c/chapter17-c.component';
 
 
 @NgModule({
@@ -62,6 +64,8 @@ import { Chapter17AComponent } from './chapter17-a/chapter17-a.component';
     Chapter16CComponent,
     Chapter16DComponent,
     Chapter17AComponent,
+    Chapter17BComponent,
+    Chapter17CComponent,
   ],
   imports: [
     BrowserModule,
